@@ -98,5 +98,4 @@ Run the notebook cells in order to reproduce the analysis and visualizations.
 *   Uncovered critical business insights regarding contract types and payment methods, providing a data-driven foundation for customer retention strategies.
 *   Developed high-impact visualizations including stacked bar charts and service matrices to communicate findings to stakeholders.
 
-# GitHub Tags
-`#DataAnalytics` `#CustomerRetention` `#EDA` `#Python` `#BusinessIntelligence` `#DataVisualization`
+
